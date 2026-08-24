@@ -1,0 +1,69 @@
+{
+    "currency": {
+        "usd": 200000.0,
+        "usdt": 199701.0,
+        "aed": 54470.0,
+        "eur": 233120.0,
+        "gbp": 272310.0,
+        "try": 4160.0
+    },
+    "crypto": {
+        "bitcoin": 71800,
+        "ethereum": 2279,
+        "tether": 1,
+        "bnb": 650,
+        "usdc": 1,
+        "solana": 86
+    },
+    "gold": {
+        "gram": 19063670,
+        "gold18": 22254030.0,
+        "gold24": 29901000.0,
+        "melted": 96400000.0,
+        "imami": 220000000.0,
+        "bahar": 216000000.0,
+        "nim": 113000000.0,
+        "rob": 62000000.0,
+        "gerami": 32000000.0,
+        "ounce": 4479.12
+    },
+    "coin": {
+        "imami": 189500000,
+        "bahar": 186000000,
+        "nim": 96000000,
+        "rob": 53500000,
+        "gerami": 28500000
+    },
+    "global": {
+        "ounce": 4479.12,
+        "bitcoin": 77362.0,
+        "ethereum": 2460.0,
+        "bnb": 650,
+        "solana": 86
+    },
+    "global_markets": {
+        "commodities": {
+            "wti": 90.25,
+            "brent": 94.42,
+            "natural_gas": 2.83,
+            "silver": 63.07,
+            "copper": 14912.0
+        },
+        "indices": {
+            "sp500": 7707.98,
+            "nasdaq": 26331.09,
+            "dow_jones": 53463.05,
+            "vix": 15.82
+        },
+        "stocks": {
+            "nvda": 225.0,
+            "aapl": 316.83,
+            "msft": 484.31,
+            "googl": 344.72,
+            "amzn": 265.84,
+            "meta": 578.88,
+            "jpm": 357.26
+        }
+    },
+    "usd": 191500
+}

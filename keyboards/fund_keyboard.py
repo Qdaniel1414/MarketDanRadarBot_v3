@@ -1,0 +1,27 @@
+from telegram import ReplyKeyboardMarkup
+
+
+fund_keyboard = ReplyKeyboardMarkup(
+    [
+        [
+            "🏦 درآمد ثابت",
+            "📈 سهامی",
+        ],
+        [
+            "⚖️ مختلط",
+            "🚀 اهرمی",
+        ],
+        [
+            "📊 شاخصی",
+            "🏠 املاک و مستغلات",
+        ],
+        [
+            "🥇 صندوق‌های طلا",
+        ],
+        [
+            "⬅️ بازگشت",
+            "🏠 خانه",
+        ],
+    ],
+    resize_keyboard=True,
+)

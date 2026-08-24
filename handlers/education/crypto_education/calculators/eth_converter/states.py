@@ -1,0 +1,2 @@
+AMOUNT = 0
+PRICE = 1

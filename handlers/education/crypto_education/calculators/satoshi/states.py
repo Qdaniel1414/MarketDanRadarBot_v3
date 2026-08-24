@@ -1,0 +1,2 @@
+SATOSHI = 0
+MODE = 1

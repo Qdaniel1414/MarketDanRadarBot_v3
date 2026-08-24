@@ -1,0 +1,1 @@
+AMOUNT, APY, MONTH = range(3)

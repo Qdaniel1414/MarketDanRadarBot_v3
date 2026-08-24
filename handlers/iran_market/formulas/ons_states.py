@@ -1,0 +1,3 @@
+WEIGHT = 1
+SOOD = 2
+TAX = 3

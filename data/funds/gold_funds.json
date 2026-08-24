@@ -1,0 +1,72 @@
+[
+  {
+    "symbol": "TALA",
+    "name": "طلا",
+    "market": 186420,
+    "nav": 184530,
+    "daily": 0.42,
+    "weekly": 1.37,
+    "monthly": 5.84,
+    "value": 35200000000
+  },
+  {
+    "symbol": "AYAR",
+    "name": "عیار",
+    "market": 186420,
+    "nav": 184530,
+    "daily": 0.42,
+    "weekly": 1.37,
+    "monthly": 5.84,
+    "value": 35200000000
+  },
+  {
+    "symbol": "GOHAR",
+    "name": "گوهر",
+    "market": 186420,
+    "nav": 184530,
+    "daily": 0.42,
+    "weekly": 1.37,
+    "monthly": 5.84,
+    "value": 35200000000
+  },
+  {
+    "symbol": "ZAR",
+    "name": "زر",
+    "market": 186420,
+    "nav": 184530,
+    "daily": 0.42,
+    "weekly": 1.37,
+    "monthly": 5.84,
+    "value": 35200000000
+  },
+  {
+    "symbol": "KAHRABA",
+    "name": "کهربا",
+    "market": 186420,
+    "nav": 184530,
+    "daily": 0.42,
+    "weekly": 1.37,
+    "monthly": 5.84,
+    "value": 35200000000
+  },
+  {
+    "symbol": "NAFIS",
+    "name": "نفیس",
+    "market": 186420,
+    "nav": 184530,
+    "daily": 0.42,
+    "weekly": 1.37,
+    "monthly": 5.84,
+    "value": 35200000000
+  },
+  {
+    "symbol": "JAVAHER",
+    "name": "جواهر",
+    "market": 186420,
+    "nav": 184530,
+    "daily": 0.42,
+    "weekly": 1.37,
+    "monthly": 5.84,
+    "value": 35200000000
+  }
+]

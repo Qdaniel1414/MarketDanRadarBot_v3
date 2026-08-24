@@ -1,0 +1,3 @@
+CAPITAL = 1
+COUNT = 2
+INTERVAL = 3

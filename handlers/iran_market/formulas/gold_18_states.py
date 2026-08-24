@@ -1,0 +1,5 @@
+WEIGHT = 1
+OJRAT = 2
+SOOD = 3
+TAX = 4
+CONFIRM = 5

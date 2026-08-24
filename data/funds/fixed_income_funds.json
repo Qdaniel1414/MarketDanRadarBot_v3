@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "YAK",
+    "name": "یکم",
+    "market": 10000,
+    "nav": 9950,
+    "daily": 0.12,
+    "weekly": 0.44,
+    "monthly": 1.32,
+    "value": 12000000000
+  },
+  {
+    "symbol": "KAR",
+    "name": "کارا",
+    "market": 10000,
+    "nav": 9950,
+    "daily": 0.12,
+    "weekly": 0.44,
+    "monthly": 1.32,
+    "value": 12000000000
+  },
+  {
+    "symbol": "AMAN",
+    "name": "امان",
+    "market": 10000,
+    "nav": 9950,
+    "daily": 0.12,
+    "weekly": 0.44,
+    "monthly": 1.32,
+    "value": 12000000000
+  }
+]

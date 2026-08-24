@@ -1,0 +1,2 @@
+PEAK = 0
+CURRENT = 1

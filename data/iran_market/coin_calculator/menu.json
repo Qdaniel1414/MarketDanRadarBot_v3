@@ -1,0 +1,18 @@
+[
+    {
+        "symbol": "FULL",
+        "name": "🥇 سکه امامی"
+    },
+    {
+        "symbol": "HALF",
+        "name": "🥈 نیم سکه"
+    },
+    {
+        "symbol": "QUARTER",
+        "name": "🥉 ربع سکه"
+    },
+    {
+        "symbol": "GRAM",
+        "name": "🪙 سکه گرمی"
+    }
+]
