@@ -3,7 +3,7 @@ name: MarketDanRadar Bot
 on:
   workflow_dispatch:
   schedule:
-    - cron: "10 */5 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   run-bot:
